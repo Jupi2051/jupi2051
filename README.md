@@ -1,9 +1,10 @@
-Hello there! Welcome to my github profile!
+# Hello there! Welcome to my github profile!
 
-If you don't find much to look at right now that's okay and its for one of two reasons:
+If you don't find much to look at right now, that's okay, and its for one of two reasons:
 * It is a personal project that is currently in production and i don't want to share it
-* It is a project that i worked on for a client and i cannot share what they paid for really!
-
+* It is a project that I worked on for a client, and I cannot really share what they paid for!
+* 
+**(i'll add more projects to it later i promise)**
 <footer>
 
   
