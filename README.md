@@ -1,6 +1,4 @@
-<header>
-# Hello there! Welcome to my github profile!
-</header>
+Hello there! Welcome to my github profile!
 
 If you don't find much to look at right now that's okay and its for one of two reasons:
 * It is a personal project that is currently in production and i don't want to share it
